@@ -1,4 +1,4 @@
-# 🎥✨ CineStream – Tu plataforma de cine en casa
+# 👨‍💻Sistema de inventario
 
 <p align="center">
   <img src="https://i.postimg.cc/6QZXqrdt/inventario-React.png" alt="CineStream Preview" width="100%" height="100%" />
