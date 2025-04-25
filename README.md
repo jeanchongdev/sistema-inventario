@@ -20,6 +20,8 @@
 
 ## 🚀 Instalación rápida
 
+**[Clonar api-postman-mongo es importante](https://github.com/jeanchongdev/api-postman-mongo.git)**
+
 **Copia y pega este comando en tu terminal de VS Code para comenzar:**
 
 ```bash
